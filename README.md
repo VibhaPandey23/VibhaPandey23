@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋 I'm Vibha Pandey
 
-<!--
-**VibhaPandey23/VibhaPandey23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Graduate from Graphic Era Hill University  
+💻 Passionate about Full Stack Development & AI  
+🌱 Currently exploring real-world projects using Java, Python, and React  
+📫 Reach me at: vibhapandey.23july@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/vibha-pandey-/597274255)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+ **Languages**: Java, Python, C
+ **Frontend**: HTML, CSS, JavaScript, React
+ **Backend**: Node.js (basic), Spring Boot (basic)
+ **Database**: MySQL
+ **Tools**: VS Code, Eclipse, Git, GitHub
+
+
