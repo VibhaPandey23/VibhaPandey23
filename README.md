@@ -52,7 +52,7 @@ I'm a passionate and curious developer who recently completed MCA from Graphic E
 ## 📫 Connect With Me
 
 - 📧 Email: vibhapandey.23july@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/vibha-pandey-/597274255](https://www.linkedin.com/in/vibha-pandey-/597274255)  
+- 💼 LinkedIn: [linkedin.com/in/vibha-pandey-/597274255](https://www.linkedin.com/in/vibha-pandey-597274255/)  
 - 🐙 GitHub: [github.com/vibhapandey23](https://github.com/vibhapandey23)
 
 ---
